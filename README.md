@@ -39,7 +39,7 @@ int main() {
 ```
 
 hasilnya:
-![ing]()
+![ing](https://github.com/putrintans/Praktikum3/blob/master/Latihan2/Flowchart2.png)
 
 ## Latihan2.cpp : 
 
@@ -60,7 +60,7 @@ hasilnya:
 14. Lalu, END.
 
 **Flowchart Program**
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan2/Flowchart2.png)
 
 **code program lengkap:**
 ```c++
@@ -98,7 +98,7 @@ int main(){
 ```
 
 hasilnya :
-![ing]()
+![ing]https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan2/Hasil2.png()
 
 ## Latihan3.cpp :
 
@@ -115,7 +115,7 @@ hasilnya :
 10. Lalu, END.
 
 **Flowchart Program**
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan3/Flowchart3.png)
 
 **code program lengkap:**
 #include<iostream>
@@ -151,4 +151,4 @@ int main()
 ```
 
 hasilnya :
-![ing]()
+![ing](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan3/Hasil3.png)
