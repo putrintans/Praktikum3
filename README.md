@@ -106,7 +106,7 @@ hasilnya :
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
 2. Membaca input dari keyboard `cin >> A >> B >> C`
 3. Membandingkan nilai variabel **A** dengan variabel **B**
-4. Jika sama, bandingkan kembali variabel **A** dengan variabel **C
+4. Jika sama, bandingkan kembali variabel **A** dengan variabel **C**
 5. Jika kondisi **TRUE** / ketiga variabel sama, Maka cetaklah **SEGITIGA SAMA SISI**
 6. Jika **FALSE** / jika hanya dua yang sama, Maka cetaklah **SEGITIGA SAMA KAKI**
 7. Dan jika variabel **A** sama dengan variabel **C** , jika kondisi **TRUE** maka cetaklah **SEGITIGA SAMA KAKI**
