@@ -1,6 +1,6 @@
 # Praktikum3
 
-## Latihan1.cpp : Menghitung bilangan terbesar sebanyak jumlah "n"
+## Latihan1.cpp : Program menampikan bilangan terbesar dari sejumlah bilangan acak yang di inputkan
 
 **Alur algoritma**
 1. Mendeklarasikan variabel int `a,max,n` sebagai variabel input
@@ -41,7 +41,7 @@ int main() {
 hasilnya:
 ![ing](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan1/Hasil1.png)
 
-## Latihan2.cpp : Mencetak bilangan dari yang terkecil ke terbesar
+## Latihan2.cpp : Program menampilkan urutan bilangan dari yang terkecil sampai yang terbesar, dari 3 buah bilangan yang di inputkan
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
@@ -100,7 +100,7 @@ int main(){
 hasilnya :
 ![ing](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan2/Hasil2.png)
 
-## Latihan3.cpp : Mencetak bilangan dengan segitiga
+## Latihan3.cpp : Program mencetak jenis segitiga, berdasarkan input 3 buah bilangan
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
