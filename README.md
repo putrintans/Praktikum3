@@ -39,9 +39,9 @@ int main() {
 ```
 
 hasilnya:
-![ing](https://github.com/putrintans/Praktikum3/blob/master/Latihan2/Flowchart2.png)
+![ing](https://github.com/putrintans/Praktikum3/blob/master/Latihan2/Hasil1.png)
 
-## Latihan2.cpp : 
+## Latihan2.cpp : Mencetak bilangan dari yang terkecil ke terbesar
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
@@ -98,9 +98,9 @@ int main(){
 ```
 
 hasilnya :
-![ing]https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan2/Hasil2.png()
+![ing](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan2/Hasil2.png)
 
-## Latihan3.cpp :
+## Latihan3.cpp : Mencetak bilangan dengan segitiga
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
@@ -118,6 +118,7 @@ hasilnya :
 ![Flowchart](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan3/Flowchart3.png)
 
 **code program lengkap:**
+```c++
 #include<iostream>
 using namespace std;
 
