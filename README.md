@@ -39,7 +39,7 @@ int main() {
 ```
 
 hasilnya:
-![ing](https://github.com/putrintans/Praktikum3/blob/master/Latihan2/Hasil1.png)
+![ing](https://raw.githubusercontent.com/putrintans/Praktikum3/master/Latihan1/Hasil1.png)
 
 ## Latihan2.cpp : Mencetak bilangan dari yang terkecil ke terbesar
 
